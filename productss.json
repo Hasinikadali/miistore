@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Amaranthus",
+        "desc": "Fresh and organic Amaranthus, rich in vitamins and minerals.",
+        "price": "₹34 per bunch",
+        "url": "ama.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Beans",
+        "desc": "Organic green beans, rich in fiber and protein.",
+        "price": "₹40 per kg",
+        "url": "beans.webp"
+    },
+    {
+        "id": 3,
+        "name": "Brinjal",
+        "desc": "Farm-fresh brinjal, great for curries and fry dishes.",
+        "price": "₹50 per kg",
+        "url": "bri.webp"
+    },
+    {
+        "id": 4,
+        "name": "Spinach",
+        "desc": "Nutrient-dense spinach, ideal for soups and salads.",
+        "price": "₹20 per bunch",
+        "url": "spi.webp"
+    },
+    {
+        "id": 5,
+        "name": "Cauliflower",
+        "desc": "Fresh organic cauliflower, perfect for sabzi and stir-fries.",
+        "price": "₹30 per piece",
+        "url": "cau.webp"
+    },
+    {
+        "id": 6,
+        "name": "Bhendi (Okra)",
+        "desc": "Tender and organic okra, great for bhindi fry and curry.",
+        "price": "₹40 per kg",
+        "url": "ladi.jpg"
+    }
+]
